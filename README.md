@@ -2,7 +2,7 @@
 
 |**Data**        | **Value**                 |
 |----------------|-------------------------|
-| Last Repo Update   | ```22 Apr 2024 17:05:11```   |
+| Last Repo Update   | ```22 Apr 2024 17:05:49```   |
 | Last Release   | ```1.20.4```   |
 | Last Snapshot  | ```1.20.5-rc3```  |
 | Version Count       | ```747``` |
@@ -22,7 +22,6 @@ Welcome to the Minecraft Resources Repository! This repository is designed to pr
 - **Version Control**: Access different versions of Minecraft for various purposes, including historical references.
 - **Snapshots**: Explore and experiment with Minecraft snapshots to stay up-to-date with the latest features and developments in the game.
 - **Server**: Access to Jar file of all Version
-- **Additional Assets**: Find additional resources such as texture packs, shaders, mods, and more to enhance your Minecraft experience.
 
 ### Version Selection
 
