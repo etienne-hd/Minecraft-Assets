@@ -2,11 +2,11 @@
 
 |**Data**        | **Value**                 |
 |----------------|-------------------------|
-| Last Repo Update   | ```22 Apr 2024 23:04:33```   |
-| Last Release   | ```1.20.4```   |
-| Last Snapshot  | ```1.20.5-rc3```  |
-| Version Count       | ```747``` |
-| Release Count       | ```84``` |
+| Last Repo Update   | ```23 Apr 2024 17:01:26```   |
+| Last Release   | ```1.20.5```   |
+| Last Snapshot  | ```1.20.5```  |
+| Version Count       | ```748``` |
+| Release Count       | ```85``` |
 | Snapshot Count      | ```602```|
 | Old Beta Count      | ```26```|
 | Old Alpha Count     | ```35```|
