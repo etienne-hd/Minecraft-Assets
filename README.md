@@ -2,7 +2,7 @@
 
 |**Data**        | **Value**                 |
 |----------------|-------------------------|
-| Last Repo Update   | ```31 May 2024 15:19:05```   |
+| Last Repo Update   | ```5 Jun 2024 12:02:40```   |
 | Last Release   | ```1.20.6```   |
 | Last Snapshot  | ```1.21-pre2```  |
 | Version Count       | ```758``` |
